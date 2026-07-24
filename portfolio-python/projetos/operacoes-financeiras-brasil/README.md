@@ -26,6 +26,4 @@ Banco Central do Brasil, disponibilizado publicamente via Google Sheets.
 - pandas, numpy, matplotlib, seaborn
 - Jupyter Notebook
 
-## Como Executar
 
-Abra o arquivo `analise_operacoes_financeiras.ipynb` no Google Colab ou Jupyter e execute as células em ordem. Os dados são carregados automaticamente via URL pública.

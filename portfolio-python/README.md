@@ -21,3 +21,7 @@ Repositório com códigos e projetos desenvolvidos ao longo da graduação em **
 ## Sobre
 
 Estudante de Ciência da Computação em busca de estágio. Este repositório é atualizado continuamente conforme avanço no curso.
+
+## Créditos
+
+As Estruturas dos notebooks foram criadas pelo doscente da UFABC Luneque Del Rio de Souza e Silva Junior. 

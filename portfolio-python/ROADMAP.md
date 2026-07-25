@@ -1,6 +1,6 @@
-# :world_map Roadmap:
+# world_map Roadmap
 
-## :checkered_flag: Concluído
+## checkered_flag Concluído
 
 - ✅ Fundamentos de Python (variáveis, operadores, tipos, entrada/saída)
 - ✅ Visualização de dados com matplotlib e numpy

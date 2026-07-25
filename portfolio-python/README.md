@@ -2,7 +2,7 @@
 
 Repositório com códigos e projetos desenvolvidos ao longo da graduação em **Ciência da Computação**. O objetivo é documentar a evolução técnica e demonstrar habilidades práticas em Python para oportunidades de estágio.
 
-## Estrutura do Repositório
+## :file_folder: Estrutura do Repositório
 
 | Pasta | Conteúdo |
 |---|---|
